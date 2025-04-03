@@ -7,7 +7,7 @@ Resources:
     Properties:
       Handler: lambda_function.lambda_handler
       Runtime: python3.7
-      CodeUri: arn:aws:s3:::artifacts-bucket-gll/pdftotxt
+      CodeUri: .
       Description: ''
       MemorySize: 512
       Timeout: 900
