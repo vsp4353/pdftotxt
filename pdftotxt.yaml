@@ -11,7 +11,7 @@ Resources:
       Description: ''
       MemorySize: 512
       Timeout: 900
-      Role: 'arn:aws:iam::844028273225:role/lambda_s3'
+      Role: 'arn:aws:iam::951898655696:role/pdftotxtlamda'
       Environment:
         Variables:
           TARGET_BUCKET: gl-inter-store
