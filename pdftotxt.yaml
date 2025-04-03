@@ -15,5 +15,3 @@ Resources:
       Environment:
         Variables:
           TARGET_BUCKET: gll-inter-store
-      Layers:
-        - 'arn:aws:lambda:ap-northeast-1:844028273225:layer:tika:1'
