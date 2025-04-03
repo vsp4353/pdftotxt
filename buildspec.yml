@@ -11,4 +11,5 @@ artifacts:
   type: zip
   files:
     - pdftotxt.yaml
+    - lambda_function.yml
     - lambdaoutput.yaml
